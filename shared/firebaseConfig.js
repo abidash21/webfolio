@@ -8,12 +8,12 @@ import { getAnalytics } from "firebase/analytics";
 // For Firebase JS SDK v7.20.0 and later, measurementId is optional
 const firebaseConfig = {
   apiKey: process.env.FIREBASE_API_KEY,
-  authDomain: "webfolio-395118.firebaseapp.com",
-  projectId: "webfolio-395118",
-  storageBucket: "webfolio-395118.appspot.com",
-  messagingSenderId: "1074985449717",
-  appId: "1:1074985449717:web:0ecb7dad7082a2dd3d2dbc",
-  measurementId: "G-0YP3T944R3"
+  authDomain: "webfolio-20e91.firebaseapp.com",
+  projectId: "webfolio-20e91",
+  storageBucket: "webfolio-20e91.appspot.com",
+  messagingSenderId: "1007373361990",
+  appId: "1:1007373361990:web:5de5de2c0f0dd91ada3b47",
+  measurementId: "G-N5NMK0VCXP"
 };
 
 // Initialize Firebase
