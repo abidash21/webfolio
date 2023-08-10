@@ -1,0 +1,61 @@
+const Technology=[
+    {
+        id:1,
+        name:'ReactJs',
+        icon:''
+    },
+    {
+        id:2,
+        name:'TailwindCss'
+    },
+    {
+        id:3,
+        name:'Javascript'
+    },
+    {
+        id:4,
+        name:'MongoDB'
+    },
+    {
+        id:5,
+        name:'NextJs'
+    },
+    {
+        id:6,
+        name:'MaterialUI'
+    },
+    {
+        id:7,
+        name:'TypeScript'
+    },
+    {
+        id:8,
+        name:'FireBase'
+    },
+    {
+        id:9,
+        name:'Angular'
+    },
+    {
+        id:10,
+        name:'Bootstrap'
+    },
+    {
+        id:11,
+        name:'Java'
+    },
+    {
+        id:12,
+        name:'GraphQL'
+    },
+    {
+        id:13,
+        name:'Others'
+    },
+    
+
+]
+
+export default{
+    Technology
+}
